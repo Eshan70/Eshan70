@@ -11,7 +11,8 @@ Skills: JAVA/C++/C
 - 👯 I’m looking to collaborate on GITHUB 
 - 💬 Ask me about C++ 
 - 📫 How to reach me: EMAIL 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Eshan70)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mdeshan.munshi?mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2FEshan%2520Munshi%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR3aogCQJHhYbmiKktkilujrzzk3q9FgtAn2cAIFT0OS2Bg-c9EzGNWWSqY_aem_JbJ-kNTOHQg1zUlGlGmvrA&h=AT05OU_0X3wR3hDO1wDYJWLRQi7XN5QaKADdnPTaFnnmGsPM0TjRDeckp-CR8AcTLjLZZnltjEhQup3fZAo4B_o9stO03yf8YKHXPDHcvB8YMTcN0nPT0M092rybPE4bXLb9/)  
 
